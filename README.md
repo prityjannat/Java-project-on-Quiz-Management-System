@@ -64,7 +64,7 @@ Score Range	Feedback Message -
     Console I/O (Scanner for input/output)
 
 ### 🎥 Demo Video
-    https://drive.google.com/file/d/1pyYq6TWV_wqrMlrDjlBK6WWIKy7Lq0bi/view?usp=sharing 
+    https://drive.google.com/file/d/1pyYq6TWV_wqrMlrDjlBK6WWIKy7Lq0bi/view?usp=sharing  
 
 
 
